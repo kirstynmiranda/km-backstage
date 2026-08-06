@@ -1,4 +1,4 @@
-# Vinted voice and tone - safety, security, and moderation content
+# Vinted voice and tone - trust, security, and moderation content
 
 This tone guide explains how to modulate Vinted's general tone of voice for platform safety, security, and moderation related content. If any of the guidance here conflicts with the information outlined in Vinted voice and tone - general guidelines, differ to this document.
 
