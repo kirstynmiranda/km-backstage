@@ -1,7 +1,6 @@
 # UX Writing Best Practices
 
-A summary of content heuristics for auditing screens and components at any phase of design.
-*Based on the UX Content Collective checklist by Bobbie Wood, 2015–2021.*
+A summary of content heuristics for auditing screens and components at any phase of design. *Based on the UX Content Collective checklist by Bobbie Wood, 2015–2021.*
 
 ---
 
