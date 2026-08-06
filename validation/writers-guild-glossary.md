@@ -1,10 +1,10 @@
-# Vinted glossary — seed list
+# Vinted term glossary 
 
 ## How to use this list
 
-This is a list of seed jargon and abbreviations that SC 3.1.3 (Unusual Words) and SC 3.1.4 (Abbreviations) rely on. This is a starting list — content-design must validate, correct, and extend.
+This is a list of seed jargon and abbreviations used at Vinted. This is a starting list — content-design must validate, correct, and extend.
 
-- The agent should consult this glossary whenever it evaluates a passage of copy for SC 3.1.3 or SC 3.1.4.
+- The agent should consult this glossary whenever it evaluates a passage of copy
 - If the copy uses a term listed as "Expand on first use" and this appears to be the first use in the flow, raise a `Minor` finding at `AAA` conformance, source `WCAG 2.2 SC 3.1.3 AAA; Vinted glossary: [term]`.
 - If the copy uses an internal-only term (marked "never user-facing" above) in a user-facing surface, raise a `Major` finding.
 - Content-design team: correct, expand, and reprioritise this list. Terms without an agreed plain-language equivalent should be added with `TBD` so we can flag gaps.
