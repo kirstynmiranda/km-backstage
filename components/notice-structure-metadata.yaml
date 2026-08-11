@@ -1,0 +1,58 @@
+sections:
+  - id: 1
+    name: Greeting
+    purpose: Acknowledge the member
+    requirements:
+      - Use {{ user_name }} liquid tag
+      - No greeting words (e.g. hi, hello)
+
+  - id: 2
+    name: Intro
+    purpose: >
+      Brief summary of the reason the member is receiving this notice
+      and the impact to them/their account.
+    requirements:
+      - 1-2 sentences max
+      - Outline key moderation/actioning decisions and the reason we took this action
+      - Use passive voice when describing the outcome of moderation actions to distance us from liability or blame
+    structure: "[impact to member] + [reason for decision]"
+
+  - id: 3
+    name: Detailed explanation of decision
+    purpose: >
+      Supporting details outlining the reason for the moderation/actioning
+      decision introduced in section 2.
+    requirements:
+      - Approx. 2-3 paragraphs
+      - Use bullet points to organize information as needed
+      - Aim for conciseness without sacrificing clarity
+      - Give enough detail to help the member understand our rationale
+      - Start with a section heading introducing the topic
+      - Front load the heading with relevant keywords to promote scannability
+    structure: "[Section heading] + [details]"
+
+  - id: 4
+    name: Next steps
+    purpose: Help the member understand expected next steps or recovery actions.
+    requirements:
+      - Guide or educate the member
+      - Be concise and actionable
+      - Can be a short paragraph (2-3 sentences) or an ordered list of steps
+      - Start with a section heading titled "Next steps"
+    structure: "[Section heading] + [details]"
+
+  - id: 5
+    name: Additional information
+    purpose: >
+      Follow up information about consequences, future actioning,
+      or related resources.
+    requirements:
+      - Stay concise
+      - Avoid blaming or scolding the member
+
+  - id: 6
+    name: Sign off
+    purpose: Close letter
+    structure:
+      - "Thanks for your cooperation, Vinted Support"
+      - "Thanks for your understanding, Vinted Support"
